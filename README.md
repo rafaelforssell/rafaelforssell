@@ -1,16 +1,31 @@
-## Hi there 👋
+# Rafael Forssell
 
-<!--
-**rafaelforssell/rafaelforssell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on Software Engineering, Data Engineering and Artificial Intelligence.
 
-Here are some ideas to get you started:
+I work on the development of complete web systems, APIs, databases and scalable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my knowledge in:
+
+- Data Engineering
+- Artificial Intelligence
+- Cloud Computing
+- Python for Data
+- ETL and data pipelines
+- Generative AI and RAG
+
+## Technologies
+
+- Python
+- FastAPI
+- JavaScript
+- React
+- C#
+- .NET
+- SQL
+- PostgreSQL
+- Docker
+- Git
+
+## Current focus
+
+Building software solutions that combine development, data and artificial intelligence.
